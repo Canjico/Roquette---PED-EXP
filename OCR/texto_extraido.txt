@@ -1,0 +1,39 @@
+🚀 RoqGPT (GPT-4.1)
+forum
+RoqGPT
+translate
+PolyRoq
+language
+Shakespeare
+language
+Molière
+clinical_notes
+Briefly
+published_with_changes
+PDF to Word
+translate
+Doc Translator
+document_scanner
+Optical Characters Recognition (OCR)
+school
+Training + Infos
+Optical Characters Recognition 📃
+⚠️
+This experimental module allows you to extract text and tables from scanned documents. Warning: this tool is not able to process encrypted or confidential documents.
+Drag and drop file here
+Limit 200MB per file • PDF
+Browse files
+Renomear.pdf
+0.6MB
+🎉 File successfully converted!
+📥 Export your Word document
+TEUTO 12675 ---- LOT: 708087266
+-
+NICROCE
+MICROCHE
+MICROCH
+MICROCEL
+TEUTO 27529
+LOT: 256002266 35 × 15 — MICROCHE
+NF-35269
+MICHOCET
